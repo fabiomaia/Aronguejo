@@ -2,7 +2,7 @@ import discord
 from discord import app_commands
 
 ##ID DO SERVIDOR 
-id_do_servidor =  304663011702996994 
+id_do_servidor = /* serverid goes here */
 
 class client(discord.Client):
     def __init__(self):
